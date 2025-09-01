@@ -57,15 +57,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|          2000 : 12      |           2004 :    24   |
+2001 : 34  |  2005 : 68
+2002 : 12  |  2006 : 00
+2003 : 34  |  2007 : D6
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---![radd](https://github.com/user-attachments/assets/bb1d8fb6-a6a9-4d22-bfe0-886cdc61d63f)
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="642" height="427" alt="Rahul_add" src="https://github.com/user-attachments/assets/c333ac28-19ad-40aa-badb-dbef7e51d6cf" />
 
 ## 2. SUBTRACTION
 
@@ -90,16 +94,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|           2000 : 12     |           2004 : 00      |
+2001 : 34  |  2005 : 00
+2002 : 12  |  2006 : 00
+2003 : 34  |  2007 : D6
 #### Manual Calculations
 
 (Add your calculation here)
+![rsub](https://github.com/user-attachments/assets/63483a81-5f95-4043-8b19-4622448ff532)
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="642" height="427" alt="rahul_sub" src="https://github.com/user-attachments/assets/93e89c66-9c5a-4e67-8a1d-f4a069b8bf82" />
 
 ## 3. MULTIPLICATION
 
@@ -184,15 +192,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|           2000 : 12     |          2004 : 00       |
+2001 : 34 | 2005 : 00
+2002 : 12 | 2006 : 00
+2003 : 34 | 2007 : 00
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---![rdiv](https://github.com/user-attachments/assets/8282e275-345a-4478-89ee-67da4dd8d2b8)
+
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="642" height="427" alt="rahul_div" src="https://github.com/user-attachments/assets/4ea80993-0b79-4b00-9ed4-37c3ec87a504" />
 
 
 ## RESULT
