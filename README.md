@@ -147,15 +147,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|          2000 : 12      |            2004 : 44     |
+2001 : 34 | 2005 : 51
+2002 : 12 | 2006 : 97
+2003 : 34 | 2007 : 0A
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---![rmul](https://github.com/user-attachments/assets/d049d0b2-e837-4f2a-99ea-90272470ef72)
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="642" height="427" alt="rahul_mul" src="https://github.com/user-attachments/assets/f31cb5fa-bbb1-43bf-aa23-e0cd17e5ea2a" />
 
 ## 4. DIVISION
 
